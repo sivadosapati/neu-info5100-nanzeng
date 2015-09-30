@@ -7,7 +7,7 @@ public class CountCharacter {
 		
 
 	}
-
+        //Cva - Move the functionality of scanner into a separate method. This method should only do the work of finding characters in a string
 	private static void scannerCount() {
 		Scanner scanner = new Scanner (System.in);
 		System.out.println("Write down your words");
